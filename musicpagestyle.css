@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-size: cover;
+    height: 100vh;
+    background-color: #03174c;
+    font-family: Bree Serif;
+}
+
+.top-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    height: 40vh;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.top-desc {
+    padding: 40px;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.card-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.card-heading-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    background-size: cover;
+    height: 200px;
+}
+
+.card-heading {
+    padding: 60px;
+    color: #ffffff;
+}
+
+.card-para {
+    color: #ffffff;
+    text-align: center;
+}
+
+.card-button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    font-size: 12px;
+    width: 120px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.night-image {
+    height: 285px;
+}
+
+.top-container-island {
+    padding: 20px;
+}
+
+.top-heading-island {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.top-para-island {
+    font-size: 14px;
+    color: #8e97fd;
+}
+
+.night-para {
+    font-size: 14px;
+    color: #8e97fd;
+}
+
+.card-image {
+    height: 100px;
+}
+
+.bottom-heading {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.bottom-card-heading {
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.bottom-card-para {
+    font-size: 14px;
+    color: #98a1bd;
+}
+
+.bottom-container {
+    padding: 20px;
+}
+
+.bottom-card {
+    padding-right: 10px;
+}
